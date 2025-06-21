@@ -1,0 +1,10 @@
+﻿langchain
+langchain-cohere
+cohere
+chromadb
+pypdf
+fastapi
+uvicorn
+mem0
+streamlit
+requests
